@@ -4,7 +4,7 @@
 Email Me 👉 ✉️ **ahmadsaddam443@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Book store website
-- 🌱 **I’m currently learning:** DSA with C++
+- 🌱 **I’m currently learning:** DSA with Java
 - 👯 **I’m looking to collaborate on:** Ahmad Book store
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** ahmadsaddam443@gmail.com
